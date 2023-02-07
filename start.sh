@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/Cyniteofficial/Shortner-Converter-Bot-V2.git /Shortner-Converter-Bot-V2
-cd /Shortner-Converter-Bot-V2
+git clone https://github.com/NORVIN/FormelinkBot.git /Formelinkbot
+cd /Formelinkbot
 pip3 install -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
